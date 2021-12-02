@@ -1,15 +1,15 @@
 {
-  "name": "erpnext",
+  "name": "moerp",
   "description": "Open Source ERP System powered by the Frappe Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/erpnext.git"
+    "url": "git+https://gitee.com/JoeyGaojingxing/mo_erpnext.git"
   },
   "homepage": "https://erpnext.com",
   "author": "Frappe Technologies Pvt. Ltd.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/frappe/erpnext/issues"
+    "url": "https://gitee.com/JoeyGaojingxing/mo_erpnext/issues"
   },
   "devDependencies": {},
   "dependencies": {
